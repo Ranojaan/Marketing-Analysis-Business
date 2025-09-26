@@ -113,7 +113,7 @@ Innova's marketing team reported the following issues:
 
 ## 🔗 Live Power BI Dashboard
 
-👉 [**View Interactive Report**](https://app.powerbi.com/view?r=eyJrIjoiZDc3NjY1YmMtNWM4Yi00ODJiLTkyZGQtYmY4NDRhYjI5YjAxIiwidCI6ImJiZWI5MmU5LWFhZjUtNDQzZi1hN2ZmLTlkNzIyOGYyOGEwMiIsImMiOjEwfQ%3D%3D)  
+👉 [**View Interactive Report**](https://tinyurl.com/58uzkxar)  
 
 
 ---
