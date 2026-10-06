@@ -1,4 +1,4 @@
-# 📊 Marketing Analysis for Business
+# 📊 Marketing Analysis for Innova
 
 ## 🧩 Project Overview
 
